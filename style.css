@@ -1,0 +1,77 @@
+.card
+{
+     width: 100%;
+     height: 650px;
+     margin-top: 30px;
+}
+
+.card-title
+{
+     font-size: 20px;
+     text-transform: capitalize;
+     font-weight: bold;
+}
+
+.card-text
+{
+     font-size: 16px;
+     font-family: 'Arial', serif;
+     font-weight: 400;
+     
+}
+
+
+
+.first, 
+.second, 
+.third,
+.fourth
+{
+     width: 100%;
+     height: 300px;
+}
+ 
+
+.addtocart
+{
+     width: 100%;
+     background-color: black;
+     color: #FFF;
+}
+
+.addtocart:hover
+{
+     background-color: limegreen;
+     color: black;
+}
+
+
+.discount
+{
+     width: 100%;
+     height: 50px;
+
+}
+
+.discount h3
+{
+     font-size: 26px;
+     font-family: 'Arial', serif;
+     font-weight: bold;
+     color: darkred;
+
+}
+
+.di 
+{
+     background-color: red;
+     color: white;
+     border-radius: 3px;
+     height: 30px;
+     text-align: center;
+     font-size: 16px;
+     font-family: 'Arial', serif;
+     font-weight: bold;
+}
+
+
